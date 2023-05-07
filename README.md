@@ -1,6 +1,7 @@
 Türkiye il ve ilçeleri Alfabetik Json Javascript
 =====================
 
+```javascript
 /*
 turkishProvinceAndDistricts
 Türkiye il ve ilçeleri alfabetik json.js
@@ -1553,3 +1554,4 @@ const ProvinceAndDistricts = [
         "plaka": 67
     }
 ];
+```
