@@ -1,6 +1,8 @@
-//turkishProvinceAndDistricts
-//Türkiye il ve ilçeleri alfabetik json.js
-//<meta name="google-site-verification" content="GRBrEkiPxpMelLAmm7d_M1lLtpKVkBgkiCKJt_ex7d4" />
+/*
+turkishProvinceAndDistricts
+Türkiye il ve ilçeleri alfabetik json.js
+<meta name="google-site-verification" content="GRBrEkiPxpMelLAmm7d_M1lLtpKVkBgkiCKJt_ex7d4" />
+*/
 
 const Provinces = [
     "Adana",
