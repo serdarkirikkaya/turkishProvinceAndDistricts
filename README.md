@@ -1548,5 +1548,3 @@ const ProvinceAndDistricts = [
         "plaka": 67
     }
 ];
-
-module.exports = { Provinces, ProvinceAndDistricts }
